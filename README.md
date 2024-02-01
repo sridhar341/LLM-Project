@@ -17,7 +17,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/https://github.com/sridhar341/LLM-Project
 Install dependencies:
 
 Copy code
